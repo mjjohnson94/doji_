@@ -1,6 +1,25 @@
 html, body  {
-    background-color: rgba(239,244,247, .1);
-    margin: 0;
-    width: 100vh;
+    background-color: #1E1E2F;
+    /* margin: 0;
+    width: 100vh; */
     }
+
+#leftCard   {
+    background-color: pink;
+    text-align: center;
+  
+
+}
+
+#rightCard  {
+    background-color: white;
+    text-align: center;
+    
+}
+
+
+h1  {
+    font-size: 24px;
+    font-weight: bolder;
+}
 
